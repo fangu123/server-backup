@@ -1,8 +1,8 @@
 {
   "status": "error",
   "message": "logger.critical is not a function",
-  "timestamp": "2025-10-17T18:55:39.793Z",
-  "reportedAt": "2025-10-17T18:55:39.793Z",
-  "serverUptime": 333.742369302,
+  "timestamp": "2025-10-17T18:56:15.869Z",
+  "reportedAt": "2025-10-17T18:56:15.869Z",
+  "serverUptime": 33.48838284,
   "serverIP": "43.228.125.100"
 }
