@@ -1,8 +1,70 @@
 {
-  "status": "error",
-  "message": "logger.critical is not a function",
-  "timestamp": "2025-10-17T19:01:15.486Z",
-  "reportedAt": "2025-10-17T19:01:15.486Z",
-  "serverUptime": 333.105451855,
+  "status": "success",
+  "data": {
+    "timestamp": "2025-10-17T19:02:33.094Z",
+    "server": {
+      "uptime": 33.227582939,
+      "nodeVersion": "v18.20.8",
+      "platform": "linux",
+      "memory": {
+        "rss": 108818432,
+        "heapTotal": 42266624,
+        "heapUsed": 38663144,
+        "external": 3095235,
+        "arrayBuffers": 145974
+      }
+    },
+    "frontend": {
+      "distExists": false,
+      "sourceExists": false
+    },
+    "backend": {
+      "sourceExists": false,
+      "uploadsExists": false,
+      "logsExists": false
+    },
+    "database": {
+      "tablesCount": 31,
+      "tables": [
+        "animals",
+        "announcements",
+        "chain_configs",
+        "contents",
+        "daily_free_actions",
+        "decorations",
+        "deposit_addresses",
+        "deposit_records",
+        "exchange_rate_history",
+        "exchange_rates",
+        "exp_rules",
+        "items",
+        "level_configs",
+        "package_contents",
+        "packages",
+        "service_contacts",
+        "system_config",
+        "transactions",
+        "user_activity_logs",
+        "user_animals",
+        "user_assets",
+        "user_decorations",
+        "user_exp_logs",
+        "user_invites",
+        "user_items",
+        "user_package_distributions",
+        "user_package_purchases",
+        "user_permissions",
+        "users",
+        "warehouse",
+        "withdrawals"
+      ],
+      "sizeMB": "2.00"
+    }
+  },
+  "action": "get_status",
+  "executionTimeMs": 62,
+  "executedAt": "2025-10-17T19:02:33.155Z",
+  "reportedAt": "2025-10-17T19:02:33.155Z",
+  "serverUptime": 33.289372833,
   "serverIP": "43.228.125.100"
 }
