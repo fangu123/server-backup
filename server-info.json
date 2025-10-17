@@ -1,1 +1,10 @@
-{}
+{
+  "timestamp": "2025-10-17T18:50:07.621Z",
+  "status": "online",
+  "uptime": 1.570266133,
+  "nodeVersion": "v18.20.8",
+  "platform": "linux",
+  "environment": "production",
+  "version": "1.0.0",
+  "publicIP": "43.228.125.100"
+}
